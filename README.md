@@ -17,6 +17,7 @@ The TM Forum TM Forum NaaS Component Suite modules below are contained within th
 1) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -30,6 +31,9 @@ This version of the CTX-TM-Forum module was developed for Cortex v6.5. Some func
 ### Files
 The CTX-TM-Forum module requires the following files:
 * [CTX-TM-Forum Studio Package](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX-TM-Forum%20-%20Studio%20Package/v1.0/CTX-TM-Forum.studiopkg)
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation 
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-TM-Forum/blob/master/CTX%20-%20TM-Forum%20-%20Deployment%20Plan.pdf).
